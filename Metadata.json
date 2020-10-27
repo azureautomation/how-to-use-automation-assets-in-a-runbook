@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 3490,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/how-to-use-automation-assets-in-a-runbook/master/Get-SettingSample.ps1",
+    "DownloadCount": 2731,
+    "Id": "How-to-use-Automation-ecd80a13",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 167,
+    "RaterCount": 2,
+    "Rating": 4.5,
+    "ReleaseDate": "2014-3-31T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This Runbook sample demonstrates the use of global assets in Automation. It shows how to retrieve an existing global variable, connection, certificate and credential.",
+    "Title": "How to use Automation Assets in a Runbook",
+    "UpdatedDate": "2014-8-7T00:00:00",
+    "Url": "https://github.com/azureautomation/how-to-use-automation-assets-in-a-runbook",
+    "UserTags": "Tutorial"
+}
